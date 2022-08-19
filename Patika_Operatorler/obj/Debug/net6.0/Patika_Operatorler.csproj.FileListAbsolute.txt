@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\bin\Debug\net6.0\Patika_Operatorler.exe
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\bin\Debug\net6.0\Patika_Operatorler.deps.json
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\bin\Debug\net6.0\Patika_Operatorler.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\bin\Debug\net6.0\Patika_Operatorler.dll
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\bin\Debug\net6.0\Patika_Operatorler.pdb
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\obj\Debug\net6.0\Patika_Operatorler.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\obj\Debug\net6.0\Patika_Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\obj\Debug\net6.0\Patika_Operatorler.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\obj\Debug\net6.0\Patika_Operatorler.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\obj\Debug\net6.0\Patika_Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\obj\Debug\net6.0\Patika_Operatorler.dll
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\obj\Debug\net6.0\refint\Patika_Operatorler.dll
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\obj\Debug\net6.0\Patika_Operatorler.pdb
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\obj\Debug\net6.0\Patika_Operatorler.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_Operatorler\obj\Debug\net6.0\ref\Patika_Operatorler.dll
