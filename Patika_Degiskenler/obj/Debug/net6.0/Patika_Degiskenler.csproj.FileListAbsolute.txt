@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\bin\Debug\net6.0\Patika_Degiskenler.exe
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\bin\Debug\net6.0\Patika_Degiskenler.deps.json
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\bin\Debug\net6.0\Patika_Degiskenler.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\bin\Debug\net6.0\Patika_Degiskenler.dll
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\bin\Debug\net6.0\Patika_Degiskenler.pdb
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\obj\Debug\net6.0\Patika_Degiskenler.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\obj\Debug\net6.0\Patika_Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\obj\Debug\net6.0\Patika_Degiskenler.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\obj\Debug\net6.0\Patika_Degiskenler.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\obj\Debug\net6.0\Patika_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\obj\Debug\net6.0\Patika_Degiskenler.dll
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\obj\Debug\net6.0\refint\Patika_Degiskenler.dll
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\obj\Debug\net6.0\Patika_Degiskenler.pdb
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\obj\Debug\net6.0\Patika_Degiskenler.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_Degiskenler\obj\Debug\net6.0\ref\Patika_Degiskenler.dll
