@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\bin\Debug\net6.0\Patika_ExtensionRecursiveMetot.exe
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\bin\Debug\net6.0\Patika_ExtensionRecursiveMetot.deps.json
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\bin\Debug\net6.0\Patika_ExtensionRecursiveMetot.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\bin\Debug\net6.0\Patika_ExtensionRecursiveMetot.dll
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\bin\Debug\net6.0\Patika_ExtensionRecursiveMetot.pdb
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\obj\Debug\net6.0\Patika_ExtensionRecursiveMetot.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\obj\Debug\net6.0\Patika_ExtensionRecursiveMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\obj\Debug\net6.0\Patika_ExtensionRecursiveMetot.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\obj\Debug\net6.0\Patika_ExtensionRecursiveMetot.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\obj\Debug\net6.0\Patika_ExtensionRecursiveMetot.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\obj\Debug\net6.0\Patika_ExtensionRecursiveMetot.dll
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\obj\Debug\net6.0\refint\Patika_ExtensionRecursiveMetot.dll
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\obj\Debug\net6.0\Patika_ExtensionRecursiveMetot.pdb
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\obj\Debug\net6.0\Patika_ExtensionRecursiveMetot.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_ExtensionRecursiveMetot\obj\Debug\net6.0\ref\Patika_ExtensionRecursiveMetot.dll
