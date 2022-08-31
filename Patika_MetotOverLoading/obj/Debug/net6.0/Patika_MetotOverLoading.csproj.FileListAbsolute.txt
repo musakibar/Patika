@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\bin\Debug\net6.0\Patika_MetotOverLoading.exe
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\bin\Debug\net6.0\Patika_MetotOverLoading.deps.json
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\bin\Debug\net6.0\Patika_MetotOverLoading.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\bin\Debug\net6.0\Patika_MetotOverLoading.dll
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\bin\Debug\net6.0\Patika_MetotOverLoading.pdb
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\obj\Debug\net6.0\Patika_MetotOverLoading.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\obj\Debug\net6.0\Patika_MetotOverLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\obj\Debug\net6.0\Patika_MetotOverLoading.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\obj\Debug\net6.0\Patika_MetotOverLoading.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\obj\Debug\net6.0\Patika_MetotOverLoading.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\obj\Debug\net6.0\Patika_MetotOverLoading.dll
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\obj\Debug\net6.0\refint\Patika_MetotOverLoading.dll
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\obj\Debug\net6.0\Patika_MetotOverLoading.pdb
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\obj\Debug\net6.0\Patika_MetotOverLoading.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_MetotOverLoading\obj\Debug\net6.0\ref\Patika_MetotOverLoading.dll
