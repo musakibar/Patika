@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\bin\Debug\net6.0\Patika_ArrayMethod.exe
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\bin\Debug\net6.0\Patika_ArrayMethod.deps.json
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\bin\Debug\net6.0\Patika_ArrayMethod.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\bin\Debug\net6.0\Patika_ArrayMethod.dll
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\bin\Debug\net6.0\Patika_ArrayMethod.pdb
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\obj\Debug\net6.0\Patika_ArrayMethod.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\obj\Debug\net6.0\Patika_ArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\obj\Debug\net6.0\Patika_ArrayMethod.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\obj\Debug\net6.0\Patika_ArrayMethod.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\obj\Debug\net6.0\Patika_ArrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\obj\Debug\net6.0\Patika_ArrayMethod.dll
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\obj\Debug\net6.0\refint\Patika_ArrayMethod.dll
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\obj\Debug\net6.0\Patika_ArrayMethod.pdb
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\obj\Debug\net6.0\Patika_ArrayMethod.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_ArrayMethod\obj\Debug\net6.0\ref\Patika_ArrayMethod.dll
