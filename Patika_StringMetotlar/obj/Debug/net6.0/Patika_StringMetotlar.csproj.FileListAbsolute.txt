@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\bin\Debug\net6.0\Patika_StringMetotlar.exe
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\bin\Debug\net6.0\Patika_StringMetotlar.deps.json
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\bin\Debug\net6.0\Patika_StringMetotlar.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\bin\Debug\net6.0\Patika_StringMetotlar.dll
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\bin\Debug\net6.0\Patika_StringMetotlar.pdb
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\obj\Debug\net6.0\Patika_StringMetotlar.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\obj\Debug\net6.0\Patika_StringMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\obj\Debug\net6.0\Patika_StringMetotlar.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\obj\Debug\net6.0\Patika_StringMetotlar.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\obj\Debug\net6.0\Patika_StringMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\obj\Debug\net6.0\Patika_StringMetotlar.dll
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\obj\Debug\net6.0\refint\Patika_StringMetotlar.dll
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\obj\Debug\net6.0\Patika_StringMetotlar.pdb
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\obj\Debug\net6.0\Patika_StringMetotlar.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_StringMetotlar\obj\Debug\net6.0\ref\Patika_StringMetotlar.dll
