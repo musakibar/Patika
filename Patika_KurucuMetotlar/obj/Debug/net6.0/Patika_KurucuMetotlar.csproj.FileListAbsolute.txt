@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\bin\Debug\net6.0\Patika_KurucuMetotlar.exe
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\bin\Debug\net6.0\Patika_KurucuMetotlar.deps.json
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\bin\Debug\net6.0\Patika_KurucuMetotlar.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\bin\Debug\net6.0\Patika_KurucuMetotlar.dll
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\bin\Debug\net6.0\Patika_KurucuMetotlar.pdb
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\obj\Debug\net6.0\Patika_KurucuMetotlar.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\obj\Debug\net6.0\Patika_KurucuMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\obj\Debug\net6.0\Patika_KurucuMetotlar.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\obj\Debug\net6.0\Patika_KurucuMetotlar.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\obj\Debug\net6.0\Patika_KurucuMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\obj\Debug\net6.0\Patika_KurucuMetotlar.dll
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\obj\Debug\net6.0\refint\Patika_KurucuMetotlar.dll
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\obj\Debug\net6.0\Patika_KurucuMetotlar.pdb
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\obj\Debug\net6.0\Patika_KurucuMetotlar.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_KurucuMetotlar\obj\Debug\net6.0\ref\Patika_KurucuMetotlar.dll
