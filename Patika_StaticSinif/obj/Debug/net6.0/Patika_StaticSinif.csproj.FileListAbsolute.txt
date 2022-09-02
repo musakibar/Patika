@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\bin\Debug\net6.0\Patika_StaticSinif.exe
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\bin\Debug\net6.0\Patika_StaticSinif.deps.json
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\bin\Debug\net6.0\Patika_StaticSinif.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\bin\Debug\net6.0\Patika_StaticSinif.dll
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\bin\Debug\net6.0\Patika_StaticSinif.pdb
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\obj\Debug\net6.0\Patika_StaticSinif.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\obj\Debug\net6.0\Patika_StaticSinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\obj\Debug\net6.0\Patika_StaticSinif.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\obj\Debug\net6.0\Patika_StaticSinif.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\obj\Debug\net6.0\Patika_StaticSinif.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\obj\Debug\net6.0\Patika_StaticSinif.dll
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\obj\Debug\net6.0\refint\Patika_StaticSinif.dll
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\obj\Debug\net6.0\Patika_StaticSinif.pdb
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\obj\Debug\net6.0\Patika_StaticSinif.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_StaticSinif\obj\Debug\net6.0\ref\Patika_StaticSinif.dll
