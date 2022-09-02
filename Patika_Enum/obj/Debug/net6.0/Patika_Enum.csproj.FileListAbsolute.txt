@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_Enum\bin\Debug\net6.0\Patika_Enum.exe
+C:\Users\PC\Documents\VSCode\Patika_Enum\bin\Debug\net6.0\Patika_Enum.deps.json
+C:\Users\PC\Documents\VSCode\Patika_Enum\bin\Debug\net6.0\Patika_Enum.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_Enum\bin\Debug\net6.0\Patika_Enum.dll
+C:\Users\PC\Documents\VSCode\Patika_Enum\bin\Debug\net6.0\Patika_Enum.pdb
+C:\Users\PC\Documents\VSCode\Patika_Enum\obj\Debug\net6.0\Patika_Enum.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_Enum\obj\Debug\net6.0\Patika_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_Enum\obj\Debug\net6.0\Patika_Enum.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_Enum\obj\Debug\net6.0\Patika_Enum.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_Enum\obj\Debug\net6.0\Patika_Enum.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_Enum\obj\Debug\net6.0\Patika_Enum.dll
+C:\Users\PC\Documents\VSCode\Patika_Enum\obj\Debug\net6.0\refint\Patika_Enum.dll
+C:\Users\PC\Documents\VSCode\Patika_Enum\obj\Debug\net6.0\Patika_Enum.pdb
+C:\Users\PC\Documents\VSCode\Patika_Enum\obj\Debug\net6.0\Patika_Enum.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_Enum\obj\Debug\net6.0\ref\Patika_Enum.dll
