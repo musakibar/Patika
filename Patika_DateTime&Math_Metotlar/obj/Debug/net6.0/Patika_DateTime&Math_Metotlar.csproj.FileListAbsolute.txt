@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\bin\Debug\net6.0\Patika_DateTime&Math_Metotlar.exe
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\bin\Debug\net6.0\Patika_DateTime&Math_Metotlar.deps.json
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\bin\Debug\net6.0\Patika_DateTime&Math_Metotlar.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\bin\Debug\net6.0\Patika_DateTime&Math_Metotlar.dll
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\bin\Debug\net6.0\Patika_DateTime&Math_Metotlar.pdb
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\obj\Debug\net6.0\Patika_DateTime&Math_Metotlar.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\obj\Debug\net6.0\Patika_DateTime&Math_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\obj\Debug\net6.0\Patika_DateTime&Math_Metotlar.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\obj\Debug\net6.0\Patika_DateTime&Math_Metotlar.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\obj\Debug\net6.0\Patika_DateTime&Math_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\obj\Debug\net6.0\Patika_DateTime&Math_Metotlar.dll
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\obj\Debug\net6.0\refint\Patika_DateTime&Math_Metotlar.dll
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\obj\Debug\net6.0\Patika_DateTime&Math_Metotlar.pdb
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\obj\Debug\net6.0\Patika_DateTime&Math_Metotlar.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_DateTime&Math_Metotlar\obj\Debug\net6.0\ref\Patika_DateTime&Math_Metotlar.dll
