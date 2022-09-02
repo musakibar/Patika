@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_GenericList\bin\Debug\net6.0\Patika_GenericList.exe
+C:\Users\PC\Documents\VSCode\Patika_GenericList\bin\Debug\net6.0\Patika_GenericList.deps.json
+C:\Users\PC\Documents\VSCode\Patika_GenericList\bin\Debug\net6.0\Patika_GenericList.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_GenericList\bin\Debug\net6.0\Patika_GenericList.dll
+C:\Users\PC\Documents\VSCode\Patika_GenericList\bin\Debug\net6.0\Patika_GenericList.pdb
+C:\Users\PC\Documents\VSCode\Patika_GenericList\obj\Debug\net6.0\Patika_GenericList.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_GenericList\obj\Debug\net6.0\Patika_GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_GenericList\obj\Debug\net6.0\Patika_GenericList.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_GenericList\obj\Debug\net6.0\Patika_GenericList.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_GenericList\obj\Debug\net6.0\Patika_GenericList.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_GenericList\obj\Debug\net6.0\Patika_GenericList.dll
+C:\Users\PC\Documents\VSCode\Patika_GenericList\obj\Debug\net6.0\refint\Patika_GenericList.dll
+C:\Users\PC\Documents\VSCode\Patika_GenericList\obj\Debug\net6.0\Patika_GenericList.pdb
+C:\Users\PC\Documents\VSCode\Patika_GenericList\obj\Debug\net6.0\Patika_GenericList.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_GenericList\obj\Debug\net6.0\ref\Patika_GenericList.dll
