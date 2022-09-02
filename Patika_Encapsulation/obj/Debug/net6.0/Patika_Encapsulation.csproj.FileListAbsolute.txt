@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\bin\Debug\net6.0\Patika_Encapsulation.exe
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\bin\Debug\net6.0\Patika_Encapsulation.deps.json
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\bin\Debug\net6.0\Patika_Encapsulation.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\bin\Debug\net6.0\Patika_Encapsulation.dll
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\bin\Debug\net6.0\Patika_Encapsulation.pdb
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\obj\Debug\net6.0\Patika_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\obj\Debug\net6.0\Patika_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\obj\Debug\net6.0\Patika_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\obj\Debug\net6.0\Patika_Encapsulation.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\obj\Debug\net6.0\Patika_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\obj\Debug\net6.0\Patika_Encapsulation.dll
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\obj\Debug\net6.0\refint\Patika_Encapsulation.dll
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\obj\Debug\net6.0\Patika_Encapsulation.pdb
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\obj\Debug\net6.0\Patika_Encapsulation.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_Encapsulation\obj\Debug\net6.0\ref\Patika_Encapsulation.dll
