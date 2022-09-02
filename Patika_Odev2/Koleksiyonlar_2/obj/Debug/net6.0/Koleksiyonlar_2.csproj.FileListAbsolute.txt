@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\bin\Debug\net6.0\Koleksiyonlar_2.exe
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\bin\Debug\net6.0\Koleksiyonlar_2.deps.json
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\bin\Debug\net6.0\Koleksiyonlar_2.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\bin\Debug\net6.0\Koleksiyonlar_2.dll
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\bin\Debug\net6.0\Koleksiyonlar_2.pdb
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\obj\Debug\net6.0\Koleksiyonlar_2.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\obj\Debug\net6.0\Koleksiyonlar_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\obj\Debug\net6.0\Koleksiyonlar_2.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\obj\Debug\net6.0\Koleksiyonlar_2.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\obj\Debug\net6.0\Koleksiyonlar_2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\obj\Debug\net6.0\Koleksiyonlar_2.dll
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\obj\Debug\net6.0\refint\Koleksiyonlar_2.dll
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\obj\Debug\net6.0\Koleksiyonlar_2.pdb
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\obj\Debug\net6.0\Koleksiyonlar_2.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_Odev2\Koleksiyonlar_2\obj\Debug\net6.0\ref\Koleksiyonlar_2.dll
