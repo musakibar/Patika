@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\bin\Debug\net6.0\Patika_SınıfKavramı.exe
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\bin\Debug\net6.0\Patika_SınıfKavramı.deps.json
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\bin\Debug\net6.0\Patika_SınıfKavramı.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\bin\Debug\net6.0\Patika_SınıfKavramı.dll
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\bin\Debug\net6.0\Patika_SınıfKavramı.pdb
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\obj\Debug\net6.0\Patika_SınıfKavramı.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\obj\Debug\net6.0\Patika_SınıfKavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\obj\Debug\net6.0\Patika_SınıfKavramı.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\obj\Debug\net6.0\Patika_SınıfKavramı.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\obj\Debug\net6.0\Patika_SınıfKavramı.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\obj\Debug\net6.0\Patika_SınıfKavramı.dll
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\obj\Debug\net6.0\refint\Patika_SınıfKavramı.dll
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\obj\Debug\net6.0\Patika_SınıfKavramı.pdb
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\obj\Debug\net6.0\Patika_SınıfKavramı.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_SınıfKavramı\obj\Debug\net6.0\ref\Patika_SınıfKavramı.dll
