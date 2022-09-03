@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\bin\Debug\net6.0\Patika_TelefonRehberi.exe
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\bin\Debug\net6.0\Patika_TelefonRehberi.deps.json
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\bin\Debug\net6.0\Patika_TelefonRehberi.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\bin\Debug\net6.0\Patika_TelefonRehberi.dll
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\bin\Debug\net6.0\Patika_TelefonRehberi.pdb
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\obj\Debug\net6.0\Patika_TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\obj\Debug\net6.0\Patika_TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\obj\Debug\net6.0\Patika_TelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\obj\Debug\net6.0\Patika_TelefonRehberi.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\obj\Debug\net6.0\Patika_TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\obj\Debug\net6.0\Patika_TelefonRehberi.dll
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\obj\Debug\net6.0\refint\Patika_TelefonRehberi.dll
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\obj\Debug\net6.0\Patika_TelefonRehberi.pdb
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\obj\Debug\net6.0\Patika_TelefonRehberi.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_TelefonRehberi\obj\Debug\net6.0\ref\Patika_TelefonRehberi.dll
