@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\VSCode\Patika_ToDo\bin\Debug\net6.0\Patika_ToDo.exe
+C:\Users\PC\Documents\VSCode\Patika_ToDo\bin\Debug\net6.0\Patika_ToDo.deps.json
+C:\Users\PC\Documents\VSCode\Patika_ToDo\bin\Debug\net6.0\Patika_ToDo.runtimeconfig.json
+C:\Users\PC\Documents\VSCode\Patika_ToDo\bin\Debug\net6.0\Patika_ToDo.dll
+C:\Users\PC\Documents\VSCode\Patika_ToDo\bin\Debug\net6.0\Patika_ToDo.pdb
+C:\Users\PC\Documents\VSCode\Patika_ToDo\obj\Debug\net6.0\Patika_ToDo.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\VSCode\Patika_ToDo\obj\Debug\net6.0\Patika_ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\VSCode\Patika_ToDo\obj\Debug\net6.0\Patika_ToDo.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_ToDo\obj\Debug\net6.0\Patika_ToDo.AssemblyInfo.cs
+C:\Users\PC\Documents\VSCode\Patika_ToDo\obj\Debug\net6.0\Patika_ToDo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\VSCode\Patika_ToDo\obj\Debug\net6.0\Patika_ToDo.dll
+C:\Users\PC\Documents\VSCode\Patika_ToDo\obj\Debug\net6.0\refint\Patika_ToDo.dll
+C:\Users\PC\Documents\VSCode\Patika_ToDo\obj\Debug\net6.0\Patika_ToDo.pdb
+C:\Users\PC\Documents\VSCode\Patika_ToDo\obj\Debug\net6.0\Patika_ToDo.genruntimeconfig.cache
+C:\Users\PC\Documents\VSCode\Patika_ToDo\obj\Debug\net6.0\ref\Patika_ToDo.dll
